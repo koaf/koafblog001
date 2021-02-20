@@ -1,12 +1,12 @@
 ## hoi4MOD制作の巻
 
-いやーね、hoi4のMOD制作することになったんよ。
-なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
-ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
-すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
-一応簡単に説明しよう。
-ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
-<html>
+<html>いやーね、hoi4のMOD制作することになったんよ。
+<br>なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
+<br>ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
+<br>すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
+<br>一応簡単に説明しよう。
+<br>ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
+
 <br>set_naval_oob = "JAP_1936_naval_legacy"
 <br>から
 <br>oob = "JAP_1939"　
