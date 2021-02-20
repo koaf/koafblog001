@@ -6,6 +6,7 @@
 すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
 一応簡単に説明しよう。
 ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
+
 set_naval_oob = "JAP_1936_naval_legacy"
 から
 oob = "JAP_1939"　
