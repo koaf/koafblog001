@@ -1,19 +1,19 @@
 
 ## hoi4MOD制作の巻
-<html>
-いやーね、hoi4のMOD制作することになったんよ。
-<br>なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
-<br>ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
-<br>すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
-<br>一応簡単に説明しよう。
-<br>ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
 
-<br>set_naval_oob = "JAP_1936_naval_legacy"
-<br>から
-<br>oob = "JAP_1939"　
-<br>あたり？まで（俺もよくわかってない）に
-	create_field_marshal = {
-	name = "yosihito"
+いやーね、hoi4のMOD制作することになったんよ。
+なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
+ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
+すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
+一応簡単に説明しよう。
+ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
+
+set_naval_oob = "JAP_1936_naval_legacy"
+から
+oob = "JAP_1939"　
+あたり？まで（俺もよくわかってない）に
+		create_field_marshal = {
+		name = "yosihito"
 
 		picture = "taisyo.dds"
 
@@ -25,8 +25,8 @@
 		defense_skill = 5
 		planning_skill = 3
 		logistics_skill = 5
- <br> みたいなのを書く。（コピペもあり）
-  <br>説明をしよう！
+  みたいなのを書く。（コピペもあり）
+  説明をしよう！
   
   	create_field_marshal = {
   
