@@ -2,7 +2,7 @@
 
 <html>いやーね、hoi4のMOD制作することになったんよ。
 <br>なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
-<br>ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
+<br>ということで参考にして作った</html>（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)<html>
 <br>すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
 <br>一応簡単に説明しよう。
 <br>ローカルファイルからhistory＞countries＞JAP - japan.txt をMODからコピーしてきて、その中の
