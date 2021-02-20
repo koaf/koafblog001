@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## hoi4MOD制作の巻
 
-You can use the [editor on GitHub](https://github.com/koaf/koafblog001/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koaf/koafblog001/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+いやーね、hoi4のMOD制作することになったんよ。
+なんのMODかっていうと日本に天皇の元帥を入れるMOD。いや～めんどくさいことこの上ない！！！！
+ということで参考にして作った（参考元：https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13179582663)
+すげー分かりやすかったです。プログラミング経験pythonで電卓作ったくらいしかないし頭にも残ってなかったからできるかな～って思ってたんだが、普通にできたんだなぁ。
+一応簡単に説明しよう。
